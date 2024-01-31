@@ -1,9 +1,9 @@
 # CODSOFT
 CodSoft Internship Program Tasks for Machine Learning 
 
-Name:Sanjana Gaherwar
+Name: Sanjana Gaherwar
 
-College:MIT-WPU 
+College: MIT-WPU 
 
 Completed 3 tasks in which we were expexted to built 3 machine learning models which are :
 
