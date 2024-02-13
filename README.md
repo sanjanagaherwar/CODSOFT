@@ -5,6 +5,8 @@ Name: Sanjana Gaherwar
 
 College: MIT-WPU 
 
+Year :3rd 
+
 Completed 3 tasks in which we were expexted to built 3 machine learning models which are :
 
 # Task 1: MOVIE GENRE CLASSIFICATION
